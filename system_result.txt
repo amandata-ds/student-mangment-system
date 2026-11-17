@@ -1,0 +1,14 @@
+Student ID: 20
+Student Name: aman
+Gender: Male
+English: 20
+Math: 23
+Python: 5
+Database: 2
+Computer: 5
+Total: 55/500
+Percentage: 11.00%
+Grade: E
+Division: Third
+Result: Fail
+-----------------------------------
